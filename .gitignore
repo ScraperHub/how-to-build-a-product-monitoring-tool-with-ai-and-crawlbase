@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv
+venv
+env
+ENV
+*.egg-info/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+sdist/
+*.egg
+*.whl
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+nosetests.xml
+pytest.xml
+*.log
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.sqlite3
+*.sqlitedb
+myproject/settings/local.py
+/static/
+/media/
+
+# User-specific stuff
+.vscode/
+*.swp
+*~
+tmp/
+
+output.html
