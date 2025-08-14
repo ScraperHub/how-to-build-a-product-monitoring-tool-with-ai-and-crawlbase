@@ -1,4 +1,4 @@
-# How to Scrape Baidu
+# How To Build A Product Monitoring Tool With AI And Crawlbase
 
 We invite you to explore our [blog](https://crawlbase.com/blog/how-to-build-a-product-monitoring-tool-with-ai-and-crawlbase?utm_source=github&utm_medium=referral&utm_campaign=scraperhub&ref=gh_scraperhub) for more details.
 
