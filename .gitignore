@@ -44,4 +44,5 @@ myproject/settings/local.py
 *~
 tmp/
 
-output.html
+*.db
+output.json
